@@ -1,0 +1,7 @@
+{application,my_plugin,
+             [{description,"EMQ X Plugin Test"},
+              {vsn,"git"},
+              {modules,[]},
+              {registered,[my_plugin_sup]},
+              {applications,[kernel,stdlib]},
+              {mod,{my_plugin_app,[]}}]}.
