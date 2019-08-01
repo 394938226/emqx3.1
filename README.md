@@ -4,7 +4,7 @@
 
 编译环境配置
 ------------------
-1.安装erlang/otp21.2   emqx3.1使用eralng21.1编译
+1.安装erlang/otp21.2   emqx3.1使用eralng21.1编译  
     1)erlang/otp要使用的版本参考emqx的git源码文档https://github.com/emqx/emqx-rel，我这里emqx3.1应使用erlang/otp21.2
     2)erlang/otp编译安装参考https://www.cnblogs.com/datacoding/p/6937493.html
 
