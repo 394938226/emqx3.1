@@ -11,7 +11,7 @@
 >2.安装rebar3     https://www.rebar3.org/docs/getting-started#section-installing-from-source  
 >>源码安装rebar3 https://github.com/erlang/rebar3.git下载源码，执行bootstrap.cmd,然后拷贝rebar3.cmd和rebar3文件  
 >>到自定义目录，并且配置环境变量  
->3.在根目录中运行make命令，编译后的结果在_rel下  
+>3.在根目录中运行make命令，编译后的结果在_rel下
 
 自定义插件方法以my_plugin为例
 ------------------
